@@ -1,0 +1,19 @@
+{
+  "name": "expressroutingdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app1.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "nodemon": "^2.0.19"
+  }
+}
